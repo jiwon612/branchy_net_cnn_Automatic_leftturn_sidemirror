@@ -19,12 +19,6 @@ Python 3.8 (for `dataclass` support) or higher is required.
 
 pip install -r requirements.txt
 
-or
-
-```
-pip install h5py
-pip install keras
-```
 
 
 ## Result
